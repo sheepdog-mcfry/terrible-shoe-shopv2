@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+        <title>Terrible Shoe Shop</title>
+    </head>
+    <body>
+        <script>
+        </script>
+        <p>Here is where you pay for the issue</p>
+        <button onclick={{test_payment}}>Submit</button>
+    </body>
+</html>
